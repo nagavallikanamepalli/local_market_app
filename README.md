@@ -1,0 +1,1 @@
+local_market_price_app
